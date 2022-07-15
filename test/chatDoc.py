@@ -1,2 +1,2 @@
 #!/usr/bin/env python3
-# -*- coding:
+# -*- coding: utf-8
