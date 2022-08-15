@@ -2,4 +2,4 @@
 # -*- coding: utf-8 -*-
 
 # Env Variables
-from dotenv import 
+from dotenv import load
