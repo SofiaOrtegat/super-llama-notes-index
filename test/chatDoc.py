@@ -3,4 +3,5 @@
 
 # Env Variables
 from dotenv import load_dotenv
-load_dotenv
+load_dotenv()
+
