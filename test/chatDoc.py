@@ -12,4 +12,4 @@ from llama_index import (
     ServiceContext
 )
 
-# configuring
+# configuring LL
