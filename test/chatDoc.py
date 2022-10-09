@@ -13,4 +13,4 @@ from llama_index import (
 )
 
 # configuring LLM
-from llama_inde
+from llama_index.l
