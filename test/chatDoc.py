@@ -13,4 +13,4 @@ from llama_index import (
 )
 
 # configuring LLM
-from llama_index.llm_predictor import Hu
+from llama_index.llm_predictor import Hugging
