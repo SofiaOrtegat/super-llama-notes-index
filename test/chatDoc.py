@@ -13,4 +13,4 @@ from llama_index import (
 )
 
 # configuring LLM
-from llama_index.llm_predictor impo
+from llama_index.llm_predictor import Hu
