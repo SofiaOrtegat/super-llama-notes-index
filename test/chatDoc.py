@@ -14,4 +14,4 @@ from llama_index import (
 
 # configuring LLM
 from llama_index.llm_predictor import HuggingFaceLLMPredictor
-stable_llm_predictor = H
+stable_llm_predictor = Hugg
