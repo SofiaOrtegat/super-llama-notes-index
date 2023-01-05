@@ -17,3 +17,4 @@ from llama_index.llm_predictor import HuggingFaceLLMPredictor
 stable_llm_predictor = HuggingFaceLLMPredictor(
     tokenizer_name="StabilityAI/stablelm-tuned-alpha-3b",
     model_name="StabilityAI/stablelm-tuned-alpha-3b"
+)
