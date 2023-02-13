@@ -19,4 +19,4 @@ stable_llm_predictor = HuggingFaceLLMPredictor(
     model_name="StabilityAI/stablelm-tuned-alpha-3b"
 )
 service_context = ServiceContext.from_defaults(
-    ch
+    chunk_si
