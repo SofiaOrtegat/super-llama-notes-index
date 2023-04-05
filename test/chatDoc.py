@@ -23,4 +23,4 @@ service_context = ServiceContext.from_defaults(
     llm_predictor=stable_llm_predictor
 )
 HuggingFaceLLMPredictor(
-    tokenizer
+    tokenizer_ou
