@@ -27,4 +27,4 @@ HuggingFaceLLMPredictor(
 ) 
 
 # main
-documents = Sim
+documents = SimpleDi
