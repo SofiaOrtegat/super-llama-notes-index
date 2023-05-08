@@ -27,4 +27,4 @@ HuggingFaceLLMPredictor(
 ) 
 
 # main
-documents = SimpleDirector
+documents = SimpleDirectoryReade
