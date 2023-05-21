@@ -27,4 +27,4 @@ HuggingFaceLLMPredictor(
 ) 
 
 # main
-documents = SimpleDirectoryReader('../data').load_dat
+documents = SimpleDirectoryReader('../data').load_data()
