@@ -28,4 +28,4 @@ HuggingFaceLLMPredictor(
 
 # main
 documents = SimpleDirectoryReader('../data').load_data()
-parser = n
+parser = node_pa
