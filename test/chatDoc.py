@@ -31,4 +31,5 @@ documents = SimpleDirectoryReader('../data').load_data()
 parser = node_parser.SimpleNodeParser()
 nodes = parser.get_nodes_from_documents(documents=documents)
 index = VectorStoreIndex(
-    nodes=nodes
+    nodes=nodes,
+ 
