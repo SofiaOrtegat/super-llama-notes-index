@@ -33,3 +33,5 @@ nodes = parser.get_nodes_from_documents(documents=documents)
 index = VectorStoreIndex(
     nodes=nodes,
     service_context=service_context
+)
+q
