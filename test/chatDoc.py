@@ -34,4 +34,4 @@ index = VectorStoreIndex(
     nodes=nodes,
     service_context=service_context
 )
-quer
+query_engin
