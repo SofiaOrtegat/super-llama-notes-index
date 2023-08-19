@@ -35,4 +35,4 @@ index = VectorStoreIndex(
     service_context=service_context
 )
 query_engine = index.as_query_engine(verbose=True)
-whi
+while Tr
