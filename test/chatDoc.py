@@ -37,4 +37,4 @@ index = VectorStoreIndex(
 query_engine = index.as_query_engine(verbose=True)
 while True:
     query = input("[enter the query] ")
-    print("[chatTEXT]",query_engine.
+    print("[chatTEXT]",query_engine.qu
