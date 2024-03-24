@@ -1,2 +1,2 @@
 # super-llama-notes-index
-This repository conta
+This repository contains 
