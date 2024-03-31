@@ -1,2 +1,2 @@
 # super-llama-notes-index
-This repository contains a collection o
+This repository contains a collection of 
