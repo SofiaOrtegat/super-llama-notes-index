@@ -1,2 +1,2 @@
 # super-llama-notes-index
-This repository contains a collection of curate
+This repository contains a collection of curated not
