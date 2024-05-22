@@ -2,4 +2,4 @@
 This repository contains a collection of curated notes for the llama_index project.
 
 ## Introduction
-These are personal notes maintained by SofiaOrtegat for everyone looking for insi
+These are personal notes maintained by SofiaOrtegat for everyone looking for insig
